@@ -21,6 +21,7 @@ piemēram, swing dejas, Lindy hop, arī šo to no breika elementiem un izmēģin
 
 Aizrauj ceļošana. Ir vēl ļoti daudzas vietas, kuras vilina. Tuvākajā laikā ceru aizbraukt uz Āziju 
 un pieredzēt kaut ko pavisam atšķirīgu. **_Top3_** ceļojumi līdz šim ir Portugāle (Azoras), Gruzija un Arktika.
+
 ![This is an image](img/arctic.JPG)
 
 Ļoti bieži mani var sastapt lasot grāmatas. Tas ir veids, kā uz brīdi teleportēties uz pavisam citu pasauli. :)
@@ -29,6 +30,7 @@ un pieredzēt kaut ko pavisam atšķirīgu. **_Top3_** ceļojumi līdz šim ir P
 ## Mazie sapnīši:
 
 * Staigāt pa virvēm lielos augstumos. [Iedvesmai](https://www.youtube.com/watch?v=hVylG6ngWb8&ab_channel=GuinnessWorldRecords)
+
 ![This is an image](img/slackline.jpg)
 * Spēlēt bungas
  
