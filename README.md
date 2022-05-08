@@ -20,7 +20,8 @@ Mana sirdslieta ir dejošana, gandrīz visu dzīvi esmu dejojusi. Pamatā tautas
 piemēram, swing dejas, Lindy hop, arī šo to no breika elementiem un izmēģināju arī stepu.
 
 Aizrauj ceļošana. Ir vēl ļoti daudzas vietas, kuras vilina. Tuvākajā laikā ceru aizbraukt uz Āziju 
-un pieredzēt kaut ko pavisam atšķirīgu. **_Top3_** ceļojumi līdz šim ir Portugāle (Azoras), Gruzija un Arktika.
+un pieredzēt kaut ko pavisam atšķirīgu.
+**_Top3_** ceļojumi līdz šim ir Portugāle (Azoras), Gruzija un Arktika.
 
 ![This is an image](img/arctic.JPG)
 
