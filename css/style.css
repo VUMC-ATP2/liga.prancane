@@ -39,7 +39,7 @@ div {
     width: 50px;
     background-color: aqua;
     float: left;
-    position: fixed;
+    position: inherit;
 }
 
 .right-side {
