@@ -1,6 +1,5 @@
 package homework;
-import java.sql.SQLOutput;
-import java.util.EmptyStackException;
+
 public class FirstClass {
     public static void main(String[] args) {
         //Izveleta valsts Gruzija
@@ -52,7 +51,7 @@ public class FirstClass {
         System.out.println("c = " + a + b + " => c = " + c);
         System.out.printf("if c = %d => d = %d + 4 \n", c, c);
         System.out.println("d = " + d);
-                System.out.println(d);
+        System.out.println(d);
         System.out.println(20 + 82);
         System.out.println();
         // -
@@ -72,5 +71,4 @@ public class FirstClass {
         System.out.println("(a * z) / x = " + (a*z/x) );
         System.out.println(y / z);
     }
-
 }
