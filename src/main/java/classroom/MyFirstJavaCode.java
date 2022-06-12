@@ -14,10 +14,11 @@ public class MyFirstJavaCode {
         byte floorCount = 5;
         System.out.println("My house has "+floorCount +" floors");
         System.out.printf("My house has %d floors\n", floorCount);
-        //%d - numbers
-        //%s - text/string
-        //%b - boolean
-        //%f - kas tas bija?
+        //%d - priekš numbers
+        //%s - priekš text/string
+        //%b - priekš boolean
+        //%f - kas tas bija? float
+        // \n pārnes uz jaunu rindu
 
         short salaryInEur = 1000;
         System.out.println ("salaryInEur");
